@@ -1,7 +1,6 @@
-````
 # Example Alert Output
 
-```
+
 MARKET OPEN | Jul 8 9:45 CDT
 
 Status: Market OPEN | Entry Today YES
@@ -15,5 +14,3 @@ Open Positions: None
 
 Attempts: This week 12/40 | Last week 38/40
 Next: Waiting for 09:45 entry check.
-```
-````
