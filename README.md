@@ -1,4 +1,3 @@
-````
 # Discord Alerts Template
 
 Small, reusable pieces for wiring an automated trading bot up to Discord —
@@ -49,4 +48,3 @@ All values above are placeholders — swap in whatever matches your own strategy
 
 ## License
 MIT — use it, modify it, no warranty.
-````
